@@ -1,3 +1,3 @@
 # Hyprland config
 
-Wherever you see `eingabeaufforderung`, please replace that with your own computer's username (`/home/<YOUR_USERNAME>`).
+Wherever you see `eingabeaufforderung`, please replace that with your own username (`/home/<YOUR_USERNAME>`).
